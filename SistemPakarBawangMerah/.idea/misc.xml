@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarBawangMerah/app/src/main/res/layout/activity_aturan_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/drawable/border.xml" value="0.105" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/drawable/ic_add.xml" value="0.105" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_admin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_aturan.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_aturan_edit.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_aturan_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_daftar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_diagnosa_cf.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_diagnosa_forward_hasil.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_gejala.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_gejala_edit.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_gejala_tambah.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_penyakit.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_penyakit_admin.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_penyakit_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_penyakit_tambah.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/aturan_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/gejala_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/gejala_list_ceklis.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/layout/riwayat_list.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.105" />
+        <entry key="..\:/Users/Lenov/AndroidStudioProjects/SistemPakarRambutan/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
